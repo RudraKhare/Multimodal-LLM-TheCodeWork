@@ -1,0 +1,1 @@
+The first LLM model, hosted on Colab, utilized a pipeline to convert images to text, incorporating a stable diffusion pipeline model (dreamlike-art/dreamlike-diffusion-1.0).
