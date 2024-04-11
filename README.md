@@ -11,8 +11,8 @@ Image-to-Text LLM: Converting images into descriptive text.
 Text-to-Image LLM: Generating images based on the provided textual descriptions.
 
 Models Used
-Google Colab Model:
-Utilized a pipeline for image-to-text conversion, incorporating the dreamlike-art/dreamlike-diffusion-1.0 model.
+Google Colab Model: 
+Utilized a pipeline for image-to-text conversion, incorporating the dreamlike-art/dreamlike-diffusion-1.0 model. ------ Multimodal_LLM.ipynb
 
 Local Models:
 Model 1:
